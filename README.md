@@ -41,7 +41,7 @@
 |선택| :white_large_square: |8| [DB](DB) | [관계형 데이터베이스 이해](DB/관계형-데이터베이스-이해) | |
 |선택| :white_large_square: |8| [DB](DB) | [DB설계, ERD 작성 실습](DB/DB설계-ERD-작성-실습) | |
 |선택| :white_large_square: |8| [웹](웹) | [코딩 테스트 채점 서버 만들기](웹/코딩-테스트-채점-서버-만들기) | |
-|선택| :white_large_square: |8| [텍스트처리](텍스트처리) | [Mysql/MariaDB data processing](텍스트처리/Mysql-MariaDB-data-processing) | |
+|선택| :white_check_mark: |8| [텍스트처리](텍스트처리) | [Mysql/MariaDB data processing](텍스트처리/Mysql-MariaDB-data-processing) | |
 
 ---
 
