@@ -29,7 +29,7 @@
 |`필수`| :white_check_mark: |8| [PMS](PMS) | [JIRA의 개념과 SSAFY에서의 활용](PMS/JIRA의-개념과-SSAFY에서의-활용) | |
 |선택| :white_large_square: |8| [자바](자바) | [SpringBoot로 인별그램을 만들어 보자!](자바/SpringBoot로-인별그램을-만들어-보자) | |
 |선택| :white_large_square: |8| [웹](웹) | [Web에서 Rendering 기술 차이](웹/Web에서-Rendering-기술-차이) | |
-|선택| :white_large_square: |8| [프로그래밍](프로그래밍) | [코드 개선을 위한 Collection 사용](프로그래밍/코드-개선을-위한-Collection-사용) | |
+|선택| :white_check_mark: |8| [프로그래밍](프로그래밍) | [코드 개선을 위한 Collection 사용](프로그래밍/코드-개선을-위한-Collection-사용) | |
 
 ---
 
